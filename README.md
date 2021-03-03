@@ -9,4 +9,5 @@ An initiative to master coding
 
 # Day 2
 1. [Two Sum](Vectors/twosum.cpp)
+2. [Kids with greatest the number of candies](Vectors/kids-with-the-greatest-number-of-candies.cpp)
 
