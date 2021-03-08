@@ -1,13 +1,12 @@
 # 100-days-of-code
 An initiative to master coding
-# Day 1
-# Array Rotation
+
+# Problems solved
 1. [left-rotation](Arrays/leftrotation.cpp)
 2. [Juggling Algorithm Solution](Arrays/Juggling-algorithm.cpp)
 3. [Reversal Algorithm](Arrays/reversal-algo.cpp)
 4. [Block Swap Algorithm](Arrays/block-swap-algo.cpp)
-
-# Day 2
-1. [Two Sum](Vectors/twosum.cpp)
-2. [Kids with greatest the number of candies](Vectors/kids-with-the-greatest-number-of-candies.cpp)
-3. [Shuffle the Array](Arrays/shuffle-the-array.cpp)
+5. [Two Sum](Vectors/twosum.cpp)
+6. [Kids with greatest the number of candies](Vectors/kids-with-the-greatest-number-of-candies.cpp)
+7. [Shuffle the Array](Arrays/shuffle-the-array.cpp)
+8. [Trapping rain water](Vectors/trapping-rain-water.cpp)
