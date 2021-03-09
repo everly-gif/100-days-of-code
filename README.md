@@ -11,3 +11,4 @@ An initiative to master coding
 7. [Shuffle the Array](Arrays/shuffle-the-array.cpp)
 8. [Trapping rain water](Vectors/trapping-rain-water.cpp)
 9. [Majority Element- moore's voting algo](Arrays/majority-element.cpp)
+10.[Codechef November Long Challenge - 2019 - HRDSEQ](Arrays/Hard-sequence.cpp)
