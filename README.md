@@ -12,3 +12,6 @@ An initiative to master coding
 8. [Trapping rain water](Vectors/trapping-rain-water.cpp)
 9. [Majority Element- moore's voting algo](Arrays/majority-element.cpp)
 10. [Codechef November Long Challenge - 2019 - HRDSEQ](Arrays/Hard-sequence.cpp)
+11. [Cycle detction](Linked-lists/cycle-detection.cpp)
+12. [Merge two sorted Linked lists](Linked-lists/merge-2-sorted-ll.cpp)
+13. [Inserting node in a sorted doubley linked list](Linked-lists/insert-s-dd.cpp)
