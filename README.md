@@ -17,3 +17,4 @@ An initiative to master coding
 13. [Inserting node in a sorted doubley linked list](Linked-lists/insert-s-dd.cpp)
 14. [Sliding window approach](Arrays/sliding-window.cpp)
 15. [Additon and multiplication of 2 matrixes](Arrays/matrix-op.cpp)
+16. [Lower and Upper Triangular Matrix](Arrays/triangular-matrix.cpp)
