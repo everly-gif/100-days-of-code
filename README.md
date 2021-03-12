@@ -15,3 +15,4 @@ An initiative to master coding
 11. [Cycle detection](Linked-lists/cycle-detection.cpp)
 12. [Merge two sorted Linked lists](Linked-lists/merge-2-sorted-ll.cpp)
 13. [Inserting node in a sorted doubley linked list](Linked-lists/insert-s-dd.cpp)
+14. [Sliding window approach](Arrays/sliding-window.cpp)
